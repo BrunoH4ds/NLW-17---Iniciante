@@ -10,7 +10,7 @@ Este é um simples aplicativo de linha de comando para gerenciar metas, desenvol
 - Metas Abertas: Veja as metas que ainda precisam ser concluídas.
 - Deletar Metas: Exclua metas da sua lista.
 - Persistência de Dados: As metas são salvas em um arquivo metas.json para que você possa continuar de onde parou.
-- 
+
 # Requisitos
 
 Node.js (versão 14 ou superior)
