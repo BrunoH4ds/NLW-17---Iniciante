@@ -18,13 +18,14 @@ Biblioteca @inquirer/prompts
 
 # Instalação
 
-Clone este repositório:
-git clone https://github.com/seu-usuario/gerenciador-de-metas.git
-Navegue até o diretório do projeto:
-cd gerenciador-de-metas
-Instale as dependências:
-npm install
-Como Usar
+1. Clone este repositório:
+2. git clone https://github.com/BrunoH4ds/NLW-17---Iniciante.git
+3. Navegue até o diretório do projeto:
+4. cd gerenciador-de-metas
+5. Instale as dependências:
+6. npm install
+
+# Como Usar
 Execute o aplicativo no terminal:
 node index.js
 
